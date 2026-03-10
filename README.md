@@ -1,7 +1,9 @@
 Um código simples para um jogo de adinhação.
 Utilizo uma leve lógica de programação mesclada a linguagem Python,
 Porém a principal caracterisca desse código é a implementação da biblioteca
-Flask.
+Flask e request.
+
+
 
 
 <img width="1897" height="959" alt="image" src="https://github.com/user-attachments/assets/6ae93f76-8616-45ed-8162-b474ce0b3f84" />
