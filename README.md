@@ -1,6 +1,6 @@
 Um código simples para um jogo de adinhação.
-Utilizo uma leve lógica de programação mesclada a linguagem Python,
-Porém a principal caracterisca desse código é a implementação da biblioteca
+O foco do projeto é trabalhar minha lógica de programação voltada a python, utilizando
+também bibliotecas como
 Flask e request.
 
 
